@@ -2,4 +2,4 @@
 Responsive Login Page
 
 ### LoginPage1
-![](/rmImg/lg1.png)
+![](https://github.com/jatingupta2000/LoginPage/blob/master/rmImg/lp1.png)
